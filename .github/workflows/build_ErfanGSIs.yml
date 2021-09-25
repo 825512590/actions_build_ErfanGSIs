@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.QEECNXM/miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://mirrorbits.lineageos.org/full/sagit/20210923/lineage-18.1-20210923-nightly-sagit-signed.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
