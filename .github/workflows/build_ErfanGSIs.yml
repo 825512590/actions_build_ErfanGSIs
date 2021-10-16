@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210515100156/PACM00_11_OTA_2270_all_0jp8gm6yFRxX.ozip
-  ROM_NAME: Generic
+  ROM_NAME: ColorOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
