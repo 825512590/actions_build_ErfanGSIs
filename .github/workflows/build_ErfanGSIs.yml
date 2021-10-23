@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210515100156/PACM00_11_OTA_2270_all_0jp8gm6yFRxX.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://download.mokeedev.com/sagit/file/MK100.0-sagit-202110230946-NIGHTLY.zip/download
+  ROM_NAME: Generic
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
