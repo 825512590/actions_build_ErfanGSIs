@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.mokeedev.com/sagit/file/MK100.0-sagit-202110230946-NIGHTLY.zip/download
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUsxMDAuMC1zYWdpdC0yMDIxMTAzMDA5NTgtTklHSFRMWS56aXB8ZmlybXdhcmV8MTYzNTYzMDQ5Ng/MK100.0-sagit-202110300958-NIGHTLY.zip
   ROM_NAME: Generic
-  BUILD_TYPE: AB
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
